@@ -43,9 +43,10 @@ Poniżej znajduje się zrzut ekranu prezentujący komendę:
 
 ## Podgląd
 
-Poniżej znajduje się zrzut ekranu prezentujący wiadomość embed oraz wzięcie udziału wraz z anulowaniem:
+Poniżej znajduje się zrzut ekranu prezentujący działanie rozpoczęcia, zakończenia oraz wzięcia i anulowania udziału:
 
 ![footer](https://cdn.discordapp.com/attachments/1102682877235310734/1291915431048908853/image.png?ex=6701d581&is=67008401&hm=8d167a7d263e36c320b4236642c95f028c76cba31aa308bfbd3f5430e4ab4a84&)
+![footer](https://cdn.discordapp.com/attachments/1102682877235310734/1291916386205040690/image.png?ex=6701d665&is=670084e5&hm=13f3466087696901adce770beb508d4bb87275efd48ed8e7d9b5443ebf3c06ff&)
 
 ![footer](https://cdn.discordapp.com/attachments/1102682877235310734/1291915460257906760/image.png?ex=6701d588&is=67008408&hm=462c0233b75592630b33297ff2c68403cf991cfa6039363294e60bd8746bc4d6&)
 ![footer](https://cdn.discordapp.com/attachments/1102682877235310734/1291915493850218568/image.png?ex=6701d590&is=67008410&hm=13f3226319be3344bafcf1faed1d9238a2aa61505d3cd9bf03825d64db907cfa&)
