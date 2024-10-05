@@ -2,8 +2,6 @@
 
 Bot Discord umożliwiający organizowanie konkursów, w których użytkownicy mogą brać udział klikając przycisk, a po upływie określonego czasu bot wybiera zwycięzców. Zbudowany w **discord.js v14**, z integracją z **MongoDB**.
 
-## Funkcje
-
 ## Podgląd
 
 Poniżej znajduje się zrzut ekranu prezentujący komendę:
