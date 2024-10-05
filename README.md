@@ -56,3 +56,6 @@ Poniżej znajduje się zrzut ekranu prezentujący wiadomość embed oraz wzięci
 - **npm**
 - Konto Discord oraz utworzona aplikacja [na Discord Developer Portal](https://discord.com/developers/applications)
 - MongoDB URI
+
+**Autor:** [ScreamMaster1337](https://github.com/ScreamMaster1337)  
+**Licencja:** MIT
